@@ -1,3 +1,3 @@
-const { malikLogger, MalikLogger } = require('./MalikLogger')
+const { malikLogger, MalikLogger } = require("./MalikLogger");
 
-module.exports = { malikLogger, MalikLogger }
+module.exports = { malikLogger, MalikLogger };
